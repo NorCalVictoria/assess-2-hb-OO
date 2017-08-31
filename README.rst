@@ -1,7 +1,7 @@
 Object Orientation Skills
 =========================
 
-`See the instructions for this assignment on Frodo <http://fellowship.hackbrightacademy.com/materials/skills/object-orientation/>`_:
+`See the instructions for this assignment on Frodo <http://fellowship.hackbrightacademy.com/materials/skills/object-orientation/>`_.
 
 To complete this assessment:
 
